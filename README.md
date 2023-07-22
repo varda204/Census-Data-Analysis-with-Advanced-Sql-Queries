@@ -1,2 +1,1 @@
-# Census-Data-Analysis-with-Advanced-Sql-Queries
-Census Data Analysis with Advanced Sql Queries
+ doing data cleaning and preprocessing task, Applying advanced  queries including Joins , Aggregations , subqueries
